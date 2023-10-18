@@ -5,7 +5,7 @@ This is a simple application in which we can join the challenges(i.eQuests) and 
 
 ## Installation
 
-First clone the project using this:https://github.com/yaswanths2002/metakrafters_ETH-Assesment-2.git
+First clone the project using this:
 
 Next open the terminal and navigagte to smart-contract directory by using 
 bash
